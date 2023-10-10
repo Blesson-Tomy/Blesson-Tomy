@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 My name is Blesson K Tomy!<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love Chocolate!<br>👨‍🎓 I’m currently studying Computer Science and Engineering!<br>💬 Ask me about International Politics, Ethics of Technology and Climate Change.//<br>👨‍💻 Website: [https://blesson-tomy.github.io/Website/](https://blesson-tomy.github.io/Personal-web/)<br>//
+🤝 My name is Blesson K Tomy!<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love Chocolate!<br>👨‍🎓 I’m currently studying Computer Science and Engineering!<br>💬 Ask me about International Politics, Ethics of Technology and Climate Change.
 
 I welcome all opportunities to learn and grow. I am looking for internships, collaborative projects and knowledge! 
 Feel free to connect with me on LinkedIn to communicate!
