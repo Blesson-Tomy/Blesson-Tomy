@@ -1,5 +1,14 @@
 # 💫 About Me:
-🤝 My name is Blesson K Tomy!<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love Chocolate!<br>👨‍🎓 I’m currently studying Computer Science and Engineering!<br>💬 Ask me about International Politics, Ethics of Technology and Climate Change.
+🤝 My name is Blesson K Tomy!<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I love Chocolate!<br>
+👨‍🎓 I’m currently studying Computer Science and Engineering!<br>
+💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
+
+Favourite quote of all time:<br>
+“I want to be like water 🌊  able to slip through fingers, but still hold up a ship ⛴️ ”<br> --- Michelle Williams
+<br>
+
 
 I welcome all opportunities to learn and grow. I am looking for internships, collaborative projects and knowledge! 
 Feel free to connect with me on LinkedIn to communicate!
