@@ -24,7 +24,7 @@ Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5
 [![trophy](https://github-profile-trophy.vercel.app/?username=Blesson-Tomy)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blesson-Tomy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
