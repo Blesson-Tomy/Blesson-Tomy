@@ -21,6 +21,7 @@ Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5
 
 # Badges
 [![An image of @blessontomy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blessontomy)](https://holopin.io/@blessontomy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Blesson-Tomy)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
