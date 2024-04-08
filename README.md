@@ -1,4 +1,4 @@
-<p align='centre'>
+<p align="center">
 # 💫 About Me:
 🤝 My name is Blesson K Tomy!<br>
 😄 Pronouns: He/Him<br>
