@@ -1,3 +1,4 @@
+<p align='centre'>
 # 💫 About Me:
 🤝 My name is Blesson K Tomy!<br>
 😄 Pronouns: He/Him<br>
@@ -31,3 +32,4 @@ Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5
 ---
 [![](https://visitcount.itsvg.in/api?id=Blesson-Tomy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</p>
