@@ -1,4 +1,4 @@
-<p align="center">
+
 # 💫 About Me:
 🤝 My name is Blesson K Tomy!<br>
 😄 Pronouns: He/Him<br>
@@ -14,6 +14,7 @@ Favourite quote of all time:<br>
 I welcome all opportunities to learn and grow. I am looking for internships, collaborative projects and knowledge! 
 Feel free to connect with me on LinkedIn to communicate!
 
+<body align="center">
 ## 🌐 Socials:
 Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blesson-tomy) 
 
@@ -32,4 +33,4 @@ Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5
 ---
 [![](https://visitcount.itsvg.in/api?id=Blesson-Tomy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</p>
+</body>
