@@ -6,7 +6,7 @@
 👨‍🎓 I’m currently studying Computer Science and Engineering!<br>
 💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
 
-Personal Portfolio: [https://blesson-tomy.github.io/Blesson/](https://blesson-portfolio.vercel.app/)
+Personal Portfolio: [Click here to check it out!](https://blesson-portfolio.vercel.app/)
 
 Favourite quote of all time:<br>
 “I want to be like water 🌊  able to slip through fingers, but still hold up a ship ⛴️ ”<br> --- Michelle Williams
