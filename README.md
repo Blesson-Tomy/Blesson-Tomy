@@ -1,12 +1,12 @@
 
-# 💫 About Blesson Karikulammalayil Tomy:
+# 💫 Blesson Karikulammalayil Tomy:
 🤝 Hello! Welcome to my GitHub Profile. <br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love Chocolate, Cake and Milkshakes!<br>
 👨‍🎓 I’m currently studying Computer Science and Engineering!<br>
 💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
 
-Personal Portfolio: [Click here to check it out!](https://blesson-portfolio.vercel.app/)
+Personal Portfolio: [Check it out!](https://blesson-portfolio.vercel.app/)
 
 Favourite quote of all time:<br>
 “I want to be like water 🌊  able to slip through fingers, but still hold up a ship ⛴️ ”<br> --- Michelle Williams
