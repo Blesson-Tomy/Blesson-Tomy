@@ -3,13 +3,13 @@
 🤝 Hello! Welcome to my GitHub Profile. <br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love Chocolate, Cake and Milkshakes!<br>
-👨‍🎓 I’m currently studying Computer Science and Engineering!<br>
+👨‍🎓 I’m currently a 2nd year student studying Computer Science and Engineering!<br>
 💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
 
 Personal Portfolio: [Check it out!](https://blesson-portfolio.vercel.app/)
 
 Favourite quote of all time:<br>
-“I want to be like water 🌊  able to slip through fingers, but still hold up a ship ⛴️ ”<br> --- Michelle Williams
+> “I want to be like water 🌊  able to slip through fingers, but still hold up a ship ⛴️ ”<br> --- Michelle Williams
 <br>
 
 
@@ -30,8 +30,8 @@ Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blesson-Tomy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Blesson-Tomy&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<br/>
+<a href="https://www.buymeacoffee.com/blessonktomy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
