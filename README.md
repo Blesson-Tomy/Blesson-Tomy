@@ -7,6 +7,7 @@
 💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
 
 Personal Portfolio: [Check it out!](https://blesson-portfolio.vercel.app/)
+Hackerrank: https://www.hackerrank.com/profile/blessonkarikulam
 
 Favourite quote of all time:<br>
 > “I want to be like water 🌊  able to slip through fingers, but still hold up a ship ⛴️ ”<br> --- Michelle Williams
