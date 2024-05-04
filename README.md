@@ -7,8 +7,8 @@
 💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
 
 Profiles:
-Personal Portfolio: [Personal Website!](https://blesson-portfolio.vercel.app/)
-Hackerrank: [Hackerrank!](https://www.hackerrank.com/profile/blessonkarikulam)
+Personal Portfolio: [Personal Website!](https://blesson-portfolio.vercel.app/) <br>
+Hackerrank: [Hackerrank!](https://www.hackerrank.com/profile/blessonkarikulam) <br>
 G-Tech Mulearn: [Mulearn!](https://app.mulearn.org/profile/blessonkarikulammalayiltomy@mulearn)
 
 Favourite quote of all time:<br>
