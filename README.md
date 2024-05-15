@@ -2,7 +2,7 @@
 # 💫 Blesson Karikulammalayil Tomy:
 🤝 Hello! Welcome to my GitHub Profile. <br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I love Chocolate, Cake and Milkshakes!<br>
+⚡ Fun fact: I enjoy reading, exercising and sleeping.<br>
 👨‍🎓 I’m currently a 2nd year student studying Computer Science and Engineering!<br>
 💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
 
