@@ -39,10 +39,10 @@ G-Tech Mulearn: [Mulearn!](https://app.mulearn.org/profile/blessonkarikulammalay
 # 📊 GitHub Stats:
 
 <p align = "center">
-  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=Blesson-Tomy&theme=dark&hide_border=false">
+  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=Blesson-Tomy&theme=algolia&hide_border=false">
 </p> 
 <p align = "center">
-  <img  src = "https://my-github-readme-status.vercel.app/api?username=Blesson-Tomy&show_icons=true&theme=radical&line_height=27&count_private=true">
+  <img  src = "https://my-github-readme-status.vercel.app/api?username=Blesson-Tomy&show_icons=true&theme=algolia&line_height=27&count_private=true">
 </p> 
 
 ---
