@@ -30,7 +30,7 @@ G-Tech Mulearn: [Mulearn!](https://app.mulearn.org/profile/blessonkarikulammalay
 [![trophy](https://github-profile-trophy.vercel.app/?username=Blesson-Tomy)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Blesson-Tomy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Blesson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blesson-Tomy&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Blesson-Tomy&theme=dark&hide_border=false)<br/>
 
 ---
