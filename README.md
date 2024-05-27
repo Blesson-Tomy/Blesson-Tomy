@@ -1,10 +1,11 @@
 
-# 💫 Blesson Karikulammalayil Tomy:
-🤝 Hello! Welcome to my GitHub Profile. <br>
-😄 Pronouns: He/Him<br>
-⚡ Fun fact: I enjoy reading, exercising and sleeping.<br>
-👨‍🎓 I’m currently a 2nd year student studying Computer Science and Engineering!<br>
-💬 Ask me about International Politics, Ethics of Technology and Climate Change.<br>
+<h1 align="center"> 💫 Blesson Karikulammalayil Tomy: </h1>
+
+<p align="center">🤝 Hello! Welcome to my GitHub Profile.</p> 
+<p align="center">😄 Pronouns: He/Him </p>
+<p align="center">⚡ Fun fact: I enjoy reading, exercising and sleeping.</p>
+<p align="center">👨‍🎓 I’m currently a 2nd year student studying Computer Science and Engineering!</p>
+<p align="center">💬 Ask me about International Politics, Ethics of Technology and Climate Change.</p>
 
 
 Favourite quote of all time:<br>
@@ -13,14 +14,14 @@ Favourite quote of all time:<br>
 
 
 I welcome all opportunities to learn and grow. I am looking for internships, collaborative projects and knowledge! 
-Feel free to connect with me on LinkedIn to communicate!
+Feel free to connect with me on LinkedIn!
 
 
 ## 🌐 Socials:
-Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blesson-tomy) <br>
-Personal Portfolio: [Personal Website!](https://blesson-portfolio.vercel.app/) <br>
-Hackerrank: [Hackerrank!](https://www.hackerrank.com/profile/blessonkarikulam) <br>
-G-Tech Mulearn: [Mulearn!](https://app.mulearn.org/profile/blessonkarikulammalayiltomy@mulearn)
+Connect with me on: <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blesson-tomy) <br>
+Personal Portfolio: [Personal Website](https://blesson-portfolio.vercel.app/) <br>
+Hackerrank: [Hackerrank](https://www.hackerrank.com/profile/blessonkarikulam) <br>
+G-Tech Mulearn: [Mulearn](https://app.mulearn.org/profile/blessonkarikulammalayiltomy@mulearn)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
