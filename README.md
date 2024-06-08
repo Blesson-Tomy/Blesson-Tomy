@@ -19,7 +19,8 @@ Feel free to connect with me on LinkedIn!
 
 ## 🌐 Socials:
 Connect with me on: <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blesson-tomy) <br>
-Personal Portfolio: [Personal Website](https://blesson-portfolio.vercel.app/) <br>
+[Portfolio Website](https://blessonktomy.tech/) <br>
+[Profile Page](https://profile.blessonktomy.tech/) <br>
 Hackerrank: [Hackerrank](https://www.hackerrank.com/profile/blessonkarikulam) <br>
 G-Tech Mulearn: [Mulearn](https://app.mulearn.org/profile/blessonkarikulammalayiltomy@mulearn)
 
