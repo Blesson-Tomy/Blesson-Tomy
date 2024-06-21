@@ -2,7 +2,6 @@
 <h1 align="center"> 💫 Blesson Karikulammalayil Tomy: </h1>
 
 <p align="center">🤝 Hello! Welcome to my GitHub Profile.</p> 
-<p align="center">😄 Pronouns: He/Him </p>
 <p align="center">⚡ Fun fact: I enjoy reading, exercising and sleeping.</p>
 <p align="center">👨‍🎓 I’m currently a 2nd year student studying Computer Science and Engineering!</p>
 <p align="center">💬 Ask me about International Politics, Ethics of Technology and Climate Change.</p>
