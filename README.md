@@ -43,7 +43,7 @@ Feel free to connect with me on LinkedIn!
 <p align = "center">
   <img  src = "https://my-github-readme-status.vercel.app/api?username=Blesson-Tomy&show_icons=true&theme=algolia&line_height=27&count_private=true">
 </p> 
----
+
 <p align = "center" >
   <img src = "https://visitcount.itsvg.in/api?id=Blesson-Tomy&icon=0&color=0">
 
