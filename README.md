@@ -20,7 +20,7 @@ Feel free to connect with me on LinkedIn!
 ## 🌐 Socials:
 [Portfolio Website](https://blessonktomy.tech/) <br>
 [Profile Page](https://profile.blessonktomy.tech/) <br>
-[G-Tech Mulearn](https://app.mulearn.org/profile/blessonkarikulammalayiltomy@mulearn)
+[G-Tech Mulearn](https://app.mulearn.org/profile/blessonkarikulammalayiltomy@mulearn) <br>
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/cebfc14b-2f98-49e7-8ff4-cc606206ba5b)
 
 # 💻 Tech Stack:
