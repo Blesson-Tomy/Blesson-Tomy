@@ -1,5 +1,5 @@
 
-<h1> 💫 Blesson Karikulammalayil Tomy: </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=435&lines=Hello+%F0%9F%91%8B;I+am+%F0%9F%8C%8A+Blesson+K+Tomy+%F0%9F%8C%8A;Student;Bibliophile;Technophile)](https://git.io/typing-svg)
 
 <p>🤝 Hello! Welcome to my GitHub Profile.</p> 
 <p">⚡ Fun fact: I enjoy reading, public speaking, writing, exercising and sleeping.</p>
