@@ -3,7 +3,7 @@
 
 <p>🤝 Hello! Welcome to my GitHub Profile.</p> 
 <p">⚡ Fun fact: I enjoy reading, public speaking, writing, exercising and sleeping.</p>
-<p>👨‍🎓 I’m currently a 3rd year student studying Computer Science and Engineering with honours in Cybersecurity and a Minor in Robotics and Automation!</p>
+<p>👨‍🎓 I’m currently a 4th year student studying Computer Science and Engineering with honours in Cybersecurity and a Minor in Robotics and Automation!</p>
 <p>💬 Ask me about International Politics, Ethics of Technology and Climate Change.</p>
 
 
